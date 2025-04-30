@@ -2,6 +2,7 @@
 
 This project uses machine learning to predict customer churn for a telecom company using customer demographics, service usage, and billing data. It features exploratory data analysis, multiple model evaluations, and an interactive web app built with Streamlit.
 
+### [Blog Link](https://medium.com/@23ucs700/predicting-customer-churn-in-telecom-using-machine-learning-6f6f3136ec9b)
 ---
 
 ##  Project Structure
